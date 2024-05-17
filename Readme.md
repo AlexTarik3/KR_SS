@@ -4,14 +4,6 @@ This project created in puprpose to clasifiy pets in pet shelter, based on their
 Main point of this project - create model which will help to predict how long animal will be in the shelter.
 
 
-## Installation
-
-To install the project, follow these steps:
-
-1. Clone the repository: `git clone https://github.com/TetianaTR/IT-Smart-Systems.git`
-2. Navigate to the project file, in which you copied this repo
-3. Check if you have Node.js and all libraries on your local device for start the application
-
 ## Usage
 
 Data(train and new_input) should be placed in folder "data". They are creating there automatically after running file separate_data, but for this you need to change pathes all over each file in your drectory
